@@ -6,4 +6,3 @@
 - ⚡ Fun fact: We are in a stimulation
 - 🥽 If you can't do scuba, then what is it all about?
 
-- [![@mohit1's Holopin board](https://holopin.me/mohit1)](https://holopin.io/@mohit1)
